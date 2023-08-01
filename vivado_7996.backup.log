@@ -1,0 +1,27 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Oct 20 10:59:37 2020
+# Process ID: 7996
+# Current directory: D:/All/Software/ZZ-Hardware/80-Vivado/01-PROJECT/GPIO_Generate
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent4360 D:\All\Software\ZZ-Hardware\80-Vivado\01-PROJECT\GPIO_Generate\GPIO_Generate.xpr
+# Log file: D:/All/Software/ZZ-Hardware/80-Vivado/01-PROJECT/GPIO_Generate/vivado.log
+# Journal file: D:/All/Software/ZZ-Hardware/80-Vivado/01-PROJECT/GPIO_Generate\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/All/Software/ZZ-Hardware/80-Vivado/01-PROJECT/GPIO_Generate/GPIO_Generate.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/xxxx/Vivado/2019.1/data/ip'.
+INFO: [Project 1-230] Project 'GPIO_Generate.xpr' upgraded for this version of Vivado.
+open_project: Time (s): cpu = 00:00:13 ; elapsed = 00:00:07 . Memory (MB): peak = 874.883 ; gain = 188.883
+update_compile_order -fileset sources_1
+launch_sdk -workspace D:/All/Software/ZZ-Hardware/80-Vivado/01-PROJECT/GPIO_Generate/GPIO_Generate.sdk -hwspec D:/All/Software/ZZ-Hardware/80-Vivado/01-PROJECT/GPIO_Generate/GPIO_Generate.sdk/gpio_wrapper.hdf
+INFO: [Vivado 12-393] Launching SDK...
+INFO: [Vivado 12-417] Running xsdk -workspace D:/All/Software/ZZ-Hardware/80-Vivado/01-PROJECT/GPIO_Generate/GPIO_Generate.sdk -hwspec D:/All/Software/ZZ-Hardware/80-Vivado/01-PROJECT/GPIO_Generate/GPIO_Generate.sdk/gpio_wrapper.hdf
+INFO: [Vivado 12-3157] SDK launch initiated. Please check console for any further messages.
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Oct 20 11:03:01 2020...

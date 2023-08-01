@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Fri Oct 23 10:17:18 2020
+# Process ID: 6764
+# Current directory: D:/All/Software/ZZ-Hardware/80-Vivado/01-PROJECT/002_GPIO_Generator
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11424 D:\All\Software\ZZ-Hardware\80-Vivado\01-PROJECT\002_GPIO_Generator\GPIO_Generate.xpr
+# Log file: D:/All/Software/ZZ-Hardware/80-Vivado/01-PROJECT/002_GPIO_Generator/vivado.log
+# Journal file: D:/All/Software/ZZ-Hardware/80-Vivado/01-PROJECT/002_GPIO_Generator\vivado.jou
+#-----------------------------------------------------------
+start_gui

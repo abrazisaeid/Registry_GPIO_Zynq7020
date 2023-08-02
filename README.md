@@ -7,7 +7,7 @@ when you use SDK Xilinx original functions for change in the state of GPIO like 
 
 In this Project, I elaborate that how you can get the amount of any Pin in Any bank of Xilinx registry.
 
-for more further please don't hesitate to contact me.
+for further information or any question please don't hesitate to contact me.
 
 Saeid Safari Abrazi
 
